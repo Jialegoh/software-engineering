@@ -64,6 +64,8 @@ Software engineering is an essential field of study that deals with the design, 
 
 In summary, software engineering is important for the efficient development, reducing development costs, quality assurance, innovation, maintenance, managing software complexity and collaboration in the development of software systems.
 
+![](https://qph.cf2.quoracdn.net/main-qimg-e91bd2d4b63b8f8aa781c2a9c4dd687e-lq)
+
 ## Software Engineering Costs
 Software engineering costs can vary depending on various factors such as the complexity of the software, the size of the development team, the time frame for development, the technology used, and the location of the development team. Here are some of the costs associated with software engineering:
 
